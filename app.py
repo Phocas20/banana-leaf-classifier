@@ -8,10 +8,9 @@ CLASS_NAMES = ["cordana", "sigatoka", "pestalotiopsis", "healthy"]
 IMAGE_SIZE = (224, 224)
 
 st.set_page_config(
-    page_title="Banana Leaf Disease Classifier",
+    page_title="Banana Leaf Disease Classifier  HABIMANA Phocas Reg no:26RP0044",
     page_icon="🍃",
     layout="centered",
-    title="HABIMANA Phocas Reg no:26RP00445",
 )
 
 @st.cache_resource
