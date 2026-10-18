@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 from PIL import Image
 import tensorflow as tf
-
+<h1>HABIMANA Phocas</h1>
 # These labels and the 224x224 image size come from the training notebook.
 CLASS_NAMES = ["cordana", "sigatoka", "pestalotiopsis", "healthy"]
 IMAGE_SIZE = (224, 224)
