@@ -11,6 +11,7 @@ st.set_page_config(
     page_title="Banana Leaf Disease Classifier",
     page_icon="🍃",
     layout="centered",
+    title="HABIMANA Phocas Reg no:26RP00445",
 )
 
 @st.cache_resource
